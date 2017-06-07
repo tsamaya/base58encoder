@@ -1,0 +1,37 @@
+{
+  "name": "base58encoder",
+  "version": "0.1.0",
+  "description": "base 58 encoder and decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test",
+    "bench": "node benchmark/index.js"
+  },
+  "keywords": [
+    "base58",
+    "base-x",
+    "encode",
+    "decode",
+    "encoder",
+    "decoder",
+    "encoding",
+    "decoding"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "chai": "^4.0.2",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.3.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-mocha": "^4.3.1",
+    "gulp-util": "^3.0.8",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "base-x": "^3.0.2"
+  }
+}
