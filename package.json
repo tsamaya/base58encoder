@@ -1,6 +1,6 @@
 {
   "name": "base58encoder",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "base 58 encoder and decoder",
   "main": "index.js",
   "scripts": {
@@ -32,6 +32,6 @@
     "mocha": "^3.4.2"
   },
   "dependencies": {
-    "base-x": "^3.0.2"
+    "base-x": "^3.0.4"
   }
 }
