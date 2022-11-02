@@ -27,9 +27,9 @@
     "eslint-plugin-import": "^2.3.0",
     "gulp": "^4.0.2",
     "gulp-eslint": "^3.0.1",
-    "gulp-mocha": "^4.3.1",
+    "gulp-mocha": "^8.0.0",
     "gulp-util": "^3.0.8",
-    "mocha": "^3.4.2"
+    "mocha": "^10.1.0"
   },
   "dependencies": {
     "base-x": "^3.0.4"
